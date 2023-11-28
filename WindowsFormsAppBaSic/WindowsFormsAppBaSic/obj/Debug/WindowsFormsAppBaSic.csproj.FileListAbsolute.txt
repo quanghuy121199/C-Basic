@@ -1,0 +1,11 @@
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\WindowsFormsAppBaSic.exe.config
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\WindowsFormsAppBaSic.exe
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\WindowsFormsAppBaSic.pdb
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.AssemblyReference.cache
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.SuggestedBindingRedirects.cache
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.Form1.resources
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.Properties.Resources.resources
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.GenerateResource.cache
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.CoreCompileInputs.cache
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.exe
+E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.pdb
