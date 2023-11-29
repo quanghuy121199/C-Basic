@@ -1,9 +1,12 @@
-﻿using System;
+﻿using LQHSecurity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Reflection.Emit;
 using System.Security.Cryptography;
 using System.Security.Policy;
@@ -23,17 +26,38 @@ namespace WindowsFormsAppBaSic
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            bool checkHaveDll = false;
             string msg = "";
+            var username = txtUserName.Text.Trim();
+            var pass = txtPassWord.Text.Trim();
+            bool chkUsername = false;
+            bool chkPass = false;
+            if (File.Exists($"{Application.StartupPath}/LQHSecurity.dll"))
+            {
+                Assembly assembly = Assembly.LoadFile($"{Application.StartupPath}/LQHSecurity.dll");
+                Type type = assembly.GetType("LQHSecurity.LQHSecurityLib");
+                MethodInfo mth = type.GetMethod("CheckUserName");
+                var a = mth.Invoke(mth, new object[] { username });
 
-            if (txtUserName.Text=="Huyle")
-            {
-                msg="Thành công";
+                MethodInfo mthPass = type.GetMethod("CheckPassword");
+                var b = (bool)mthPass.Invoke(mthPass, new object[] { pass });
+                checkHaveDll = true;
             }
-            else
+
+            if (checkHaveDll)
             {
-                msg="Sai thông tin đăng nhập";
+                var lqh = new LQHSecurityLib();
+                if (lqh.CheckUserName(txtUserName.Text.Trim()) && lqh.CheckPassWord(txtPassWord.Text.Trim()))
+                {
+                    msg = "Thành công";
+                }
+                else
+                {
+                    msg = "Sai thông tin đăng nhập";
+                }
+                MessageBox.Show(msg);
             }
-            MessageBox.Show(msg);
+            
         }
     }
 }

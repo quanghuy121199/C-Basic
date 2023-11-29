@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace LQHSecurity
 {
-    public class LQHSecurity
+    public class LQHSecurityLib
     {
         private static string EncryptTruePassWord() {
             string hash = @"huyle";
@@ -74,7 +74,7 @@ namespace LQHSecurity
             {
                 return false;
             }
-            if (username == "Huyle")
+            if (username == "huyle")
             {
                 return true;
             }

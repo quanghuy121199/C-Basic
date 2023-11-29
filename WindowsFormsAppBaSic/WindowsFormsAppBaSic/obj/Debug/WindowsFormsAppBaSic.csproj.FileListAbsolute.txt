@@ -20,3 +20,6 @@ E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFor
 E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.CoreCompileInputs.cache
 E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.exe
 E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.pdb
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\LQHSecurity.dll
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\LQHSecurity.pdb
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.CopyComplete
