@@ -9,3 +9,14 @@ E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAp
 E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.CoreCompileInputs.cache
 E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.exe
 E:\LuyentapC#\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.pdb
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\WindowsFormsAppBaSic.exe.config
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\WindowsFormsAppBaSic.exe
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\bin\Debug\WindowsFormsAppBaSic.pdb
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.AssemblyReference.cache
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.SuggestedBindingRedirects.cache
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.FormLogin.resources
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.Properties.Resources.resources
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.GenerateResource.cache
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.csproj.CoreCompileInputs.cache
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.exe
+E:\GitCSharpBasic\WindowsFormsAppBaSic\WindowsFormsAppBaSic\obj\Debug\WindowsFormsAppBaSic.pdb

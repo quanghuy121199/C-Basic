@@ -4,29 +4,36 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection.Emit;
+using System.Security.Cryptography;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WindowsFormsAppBaSic
 {
-    public partial class Form1 : Form
+    public partial class FormLogin : Form
     {
-        public Form1()
+        public FormLogin()
         {
             InitializeComponent();
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if(txtUserName.Text == "Huyle" && txtPassWord.Text == "123456")
+            string msg = "";
+
+            if (txtUserName.Text=="Huyle")
             {
-                MessageBox.Show("Thành công");
+                msg="Thành công";
             }
             else
             {
-                MessageBox.Show("Sai thông tin đăng nhập");
+                msg="Sai thông tin đăng nhập";
             }
+            MessageBox.Show(msg);
         }
     }
 }

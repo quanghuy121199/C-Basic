@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsAppBaSic
 {
-    partial class Form1
+    partial class FormLogin
     {
         /// <summary>
         /// Required designer variable.
@@ -28,49 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblUserName = new System.Windows.Forms.Label();
+            this.lplPassWord = new System.Windows.Forms.Label();
             this.txtUserName = new System.Windows.Forms.TextBox();
             this.txtPassWord = new System.Windows.Forms.TextBox();
             this.btnLogin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lblUserName
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(83, 20);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Username";
+            this.lblUserName.AutoSize = true;
+            this.lblUserName.Location = new System.Drawing.Point(12, 9);
+            this.lblUserName.Name = "lblUserName";
+            this.lblUserName.Size = new System.Drawing.Size(85, 20);
+            this.lblUserName.TabIndex = 0;
+            this.lblUserName.Text = "UserName";
             // 
-            // label2
+            // lplPassWord
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 40);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(78, 20);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Password";
+            this.lplPassWord.AutoSize = true;
+            this.lplPassWord.Location = new System.Drawing.Point(12, 40);
+            this.lplPassWord.Name = "lplPassWord";
+            this.lplPassWord.Size = new System.Drawing.Size(82, 20);
+            this.lplPassWord.TabIndex = 1;
+            this.lplPassWord.Text = "PassWord";
             // 
             // txtUserName
             // 
             this.txtUserName.Location = new System.Drawing.Point(101, 6);
             this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(205, 26);
+            this.txtUserName.Size = new System.Drawing.Size(315, 26);
             this.txtUserName.TabIndex = 2;
             // 
             // txtPassWord
             // 
-            this.txtPassWord.Location = new System.Drawing.Point(101, 40);
+            this.txtPassWord.Location = new System.Drawing.Point(100, 40);
             this.txtPassWord.Name = "txtPassWord";
             this.txtPassWord.PasswordChar = '*';
-            this.txtPassWord.Size = new System.Drawing.Size(205, 26);
+            this.txtPassWord.Size = new System.Drawing.Size(316, 26);
             this.txtPassWord.TabIndex = 3;
             // 
             // btnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(101, 82);
+            this.btnLogin.Location = new System.Drawing.Point(101, 83);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(81, 34);
             this.btnLogin.TabIndex = 4;
@@ -78,18 +78,21 @@
             this.btnLogin.UseVisualStyleBackColor = true;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
-            // Form1
+            // FormLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(428, 195);
+            this.ClientSize = new System.Drawing.Size(428, 141);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.txtPassWord);
             this.Controls.Add(this.txtUserName);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Controls.Add(this.lplPassWord);
+            this.Controls.Add(this.lblUserName);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "FormLogin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "FormLogin";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -97,8 +100,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblUserName;
+        private System.Windows.Forms.Label lplPassWord;
         private System.Windows.Forms.TextBox txtUserName;
         private System.Windows.Forms.TextBox txtPassWord;
         private System.Windows.Forms.Button btnLogin;

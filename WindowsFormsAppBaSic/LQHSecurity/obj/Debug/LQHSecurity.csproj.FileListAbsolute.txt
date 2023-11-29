@@ -1,0 +1,6 @@
+E:\GitCSharpBasic\WindowsFormsAppBaSic\LQHSecurity\bin\Debug\LQHSecurity.dll
+E:\GitCSharpBasic\WindowsFormsAppBaSic\LQHSecurity\bin\Debug\LQHSecurity.pdb
+E:\GitCSharpBasic\WindowsFormsAppBaSic\LQHSecurity\obj\Debug\LQHSecurity.csproj.AssemblyReference.cache
+E:\GitCSharpBasic\WindowsFormsAppBaSic\LQHSecurity\obj\Debug\LQHSecurity.csproj.CoreCompileInputs.cache
+E:\GitCSharpBasic\WindowsFormsAppBaSic\LQHSecurity\obj\Debug\LQHSecurity.dll
+E:\GitCSharpBasic\WindowsFormsAppBaSic\LQHSecurity\obj\Debug\LQHSecurity.pdb
