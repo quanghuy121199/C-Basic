@@ -1,0 +1,8 @@
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\bin\Debug\FormForgetPassLib.dll
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\bin\Debug\FormForgetPassLib.pdb
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\obj\Debug\FormForgetPassLib.csproj.AssemblyReference.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\obj\Debug\FormForgetPassLib.csproj.CoreCompileInputs.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\obj\Debug\FormForgetPassLib.dll
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\obj\Debug\FormForgetPassLib.pdb
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\obj\Debug\FormForgetPassLib.FormForgetPass.resources
+E:\LuyentapC#\WindowsFormsAppControlDll\FormForgetPassLib\obj\Debug\FormForgetPassLib.csproj.GenerateResource.cache

@@ -1,0 +1,11 @@
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\bin\Debug\WindowsFormsAppControlDll.exe.config
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\bin\Debug\WindowsFormsAppControlDll.exe
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\bin\Debug\WindowsFormsAppControlDll.pdb
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.csproj.AssemblyReference.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.csproj.SuggestedBindingRedirects.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.Form1.resources
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.Properties.Resources.resources
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.csproj.GenerateResource.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.csproj.CoreCompileInputs.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.exe
+E:\LuyentapC#\WindowsFormsAppControlDll\WindowsFormsAppControlDll\obj\Debug\WindowsFormsAppControlDll.pdb

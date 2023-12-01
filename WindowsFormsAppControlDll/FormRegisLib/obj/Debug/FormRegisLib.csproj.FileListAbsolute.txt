@@ -1,0 +1,8 @@
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\bin\Debug\FormRegisLib.dll
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\bin\Debug\FormRegisLib.pdb
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\obj\Debug\FormRegisLib.csproj.AssemblyReference.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\obj\Debug\FormRegisLib.csproj.CoreCompileInputs.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\obj\Debug\FormRegisLib.dll
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\obj\Debug\FormRegisLib.pdb
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\obj\Debug\FormRegisLib.FormRegister.resources
+E:\LuyentapC#\WindowsFormsAppControlDll\FormRegisLib\obj\Debug\FormRegisLib.csproj.GenerateResource.cache

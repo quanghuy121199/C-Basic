@@ -1,5 +1,4 @@
-﻿using LQHSecurity;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -37,25 +36,25 @@ namespace WindowsFormsAppBaSic
                 Assembly assembly = Assembly.LoadFile($"{Application.StartupPath}/LQHSecurity.dll");
                 Type type = assembly.GetType("LQHSecurity.LQHSecurityLib");
                 MethodInfo mth = type.GetMethod("CheckUserName");
-                var a = mth.Invoke(mth, new object[] { username });
+                chkUsername = (bool) mth.Invoke(Activator.CreateInstance(type), new object[] { username });
 
                 MethodInfo mthPass = type.GetMethod("CheckPassword");
-                var b = (bool)mthPass.Invoke(mthPass, new object[] { pass });
+                chkPass = (bool)mthPass.Invoke(Activator.CreateInstance(type), new object[] { pass });
                 checkHaveDll = true;
             }
 
             if (checkHaveDll)
             {
-                var lqh = new LQHSecurityLib();
-                if (lqh.CheckUserName(txtUserName.Text.Trim()) && lqh.CheckPassWord(txtPassWord.Text.Trim()))
-                {
-                    msg = "Thành công";
-                }
-                else
-                {
-                    msg = "Sai thông tin đăng nhập";
-                }
-                MessageBox.Show(msg);
+                //var lqh = new LQHSecurityLib();
+                //if (lqh.CheckUserName(txtUserName.Text.Trim()) && lqh.CheckPassWord(txtPassWord.Text.Trim()))
+                //{
+                //    msg = "Thành công";
+                //}
+                //else
+                //{
+                //    msg = "Sai thông tin đăng nhập";
+                //}
+                //MessageBox.Show(msg);
             }
             
         }

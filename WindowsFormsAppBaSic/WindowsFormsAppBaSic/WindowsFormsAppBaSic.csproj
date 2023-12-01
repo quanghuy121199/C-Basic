@@ -79,11 +79,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\LQHSecurity\LQHSecurity.csproj">
-      <Project>{d74052f8-4d02-46c2-b5ef-402199e2e1d3}</Project>
-      <Name>LQHSecurity</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

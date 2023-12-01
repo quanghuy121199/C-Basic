@@ -1,0 +1,8 @@
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\bin\Debug\FormLoginLib.dll
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\bin\Debug\FormLoginLib.pdb
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\obj\Debug\FormLoginLib.csproj.AssemblyReference.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\obj\Debug\FormLoginLib.csproj.CoreCompileInputs.cache
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\obj\Debug\FormLoginLib.dll
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\obj\Debug\FormLoginLib.pdb
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\obj\Debug\FormLoginLib.FormLogin.resources
+E:\LuyentapC#\WindowsFormsAppControlDll\FormLoginLib\obj\Debug\FormLoginLib.csproj.GenerateResource.cache
